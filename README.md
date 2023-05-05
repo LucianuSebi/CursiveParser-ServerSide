@@ -2,10 +2,10 @@
 
 This program takes as input a picture of a written text then starts processing it into a .docx.
 It does this by:
-- grayscaling the image
-- creates a histeogram to detect rows of text
-- creates another histeogram for every row and word in the text with the goal to sepparate letters
-- passes the images of letters trough a neural network to rebuild the text into an electronic format
+- grayscaling the image and contrasting it
+- creates a histeogram which is later processed to remove "false rows" to detect rows of text
+- creates another histeogram for every row and word in the text with the goal to sepparate characters
+- passes the images containing characters trough a neural network to rebuild the text into an electronic format
 
 ## Photos
 - Original image
