@@ -18,13 +18,13 @@ It does this by:
 
 ![Screenshot_1](https://user-images.githubusercontent.com/127097933/236510192-b72c3403-c5ce-456b-8bd4-beaf89dfa2a1.png)
 
-- Detected words
+- Detected words example
 
 ![Word9-6_snapshot20230315131955](https://user-images.githubusercontent.com/127097933/236510567-4d4d06b3-277b-4a0d-a1f0-edeab1e2a3ef.png)
 
 ![Word9-2_snapshot20230315131955](https://user-images.githubusercontent.com/127097933/236510693-d46c707a-2692-450f-828c-6c6d56ae5f39.png)
 
-- Detected letters
+- Detected characters example
 
 ![Letter95_snapshot20230315131955](https://user-images.githubusercontent.com/127097933/236510745-a398da7d-0b6d-43f6-bdf5-c525fb666ba0.png)
 
